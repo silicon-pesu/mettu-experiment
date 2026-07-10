@@ -1,5 +1,5 @@
 ---
-title: "My Projects"
+title: "Projects"
 layout: "project"
 ---
-A collection of my hardware builds and project logs.
+A collection of hardware builds and project logs.
