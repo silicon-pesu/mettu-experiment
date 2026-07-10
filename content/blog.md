@@ -1,5 +1,5 @@
 ---
-title: "My Blog"
+title: "Blogs"
 layout: "blog"
 ---
-A collection of my thoughts and findings.
+A collection of our thoughts and findings.
