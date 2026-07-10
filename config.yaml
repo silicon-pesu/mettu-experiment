@@ -77,3 +77,5 @@ navigation:
     url: "/blog/"
   - name: "Projects"
     url: "/projects/"
+  - name: "Members"
+    url: "/members/"
